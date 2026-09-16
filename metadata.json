@@ -1,0 +1,8 @@
+{
+  "name": "Attendance Marking App",
+  "description": "Mobile-optimized attendance marking app with calendar-style roll numbers, attendance reports, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
